@@ -12,7 +12,7 @@ Config.env file should have to provided which contains following field:
 3. email
 4. password
 
-__Command For Installing Dependencies :__ npm install
+__Command For Installing Dependencies :__ npm install <br>
 __Command To Run Application :__ npm start
 
 
